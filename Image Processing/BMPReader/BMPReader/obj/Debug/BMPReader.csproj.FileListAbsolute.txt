@@ -1,0 +1,7 @@
+c:\users\max\documents\visual studio 2013\Projects\BMPReader\BMPReader\bin\Debug\BMPReader.exe.config
+D:\Study\Image Processing\BMPReader\BMPReader\bin\Debug\BMPReader.exe.config
+D:\Study\Image Processing\BMPReader\BMPReader\bin\Debug\BMPReader.exe
+D:\Study\Image Processing\BMPReader\BMPReader\bin\Debug\BMPReader.pdb
+D:\Study\Image Processing\BMPReader\BMPReader\obj\Debug\BMPReader.csprojResolveAssemblyReference.cache
+D:\Study\Image Processing\BMPReader\BMPReader\obj\Debug\BMPReader.exe
+D:\Study\Image Processing\BMPReader\BMPReader\obj\Debug\BMPReader.pdb

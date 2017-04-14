@@ -1,0 +1,5 @@
+D:\Study\Image Processing\BMPReader\Bitmap\bin\Debug\Bitmap.dll
+D:\Study\Image Processing\BMPReader\Bitmap\bin\Debug\Bitmap.pdb
+D:\Study\Image Processing\BMPReader\Bitmap\obj\Debug\Bitmap.csprojResolveAssemblyReference.cache
+D:\Study\Image Processing\BMPReader\Bitmap\obj\Debug\Bitmap.dll
+D:\Study\Image Processing\BMPReader\Bitmap\obj\Debug\Bitmap.pdb

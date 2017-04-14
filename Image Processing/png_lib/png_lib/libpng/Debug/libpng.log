@@ -1,0 +1,76 @@
+﻿Сборка начата 10.09.2016 18:41:07.
+     1>Проект "D:\Study\Image Processing\png_lib\png_lib\libpng\libpng.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../zlib /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D DEBUG /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt png.c pngerror.c pngget.c pngmem.c pngpread.c pngread.c pngrio.c pngrtran.c pngrutil.c pngset.c pngtrans.c pngwio.c pngwrite.c pngwtran.c pngwutil.c
+         pngwutil.c
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngwutil.c(185): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngwutil.c(1241): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+         pngwtran.c
+         pngwrite.c
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngwrite.c(417): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\time.inl(99): см. объявление "gmtime"
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngwrite.c(512): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngwrite.c(517): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngwrite.c(584): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngwrite.c(589): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+         pngwio.c
+         pngtrans.c
+         pngset.c
+         pngrutil.c
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngrutil.c(291): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngrutil.c(295): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngrutil.c(299): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngrutil.c(332): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+         pngrtran.c
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngrtran.c(1284): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+         pngrio.c
+         pngread.c
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngread.c(122): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngread.c(127): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngread.c(204): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+     1>d:\study\image processing\png_lib\png_lib\libpng\pngread.c(209): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+         pngpread.c
+         pngmem.c
+         pngget.c
+         pngerror.c
+         png.c
+     1>d:\study\image processing\png_lib\png_lib\libpng\png.c(683): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346): см. объявление "_snprintf"
+         Создание кода...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\Study\Image Processing\png_lib\png_lib\Debug\libpng.lib" /NOLOGO Debug\png.obj
+         Debug\pngerror.obj
+         Debug\pngget.obj
+         Debug\pngmem.obj
+         Debug\pngpread.obj
+         Debug\pngread.obj
+         Debug\pngrio.obj
+         Debug\pngrtran.obj
+         Debug\pngrutil.obj
+         Debug\pngset.obj
+         Debug\pngtrans.obj
+         Debug\pngwio.obj
+         Debug\pngwrite.obj
+         Debug\pngwtran.obj
+         Debug\pngwutil.obj
+         libpng.vcxproj -> D:\Study\Image Processing\png_lib\png_lib\Debug\libpng.lib
+     1>Сборка проекта "D:\Study\Image Processing\png_lib\png_lib\libpng\libpng.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.00

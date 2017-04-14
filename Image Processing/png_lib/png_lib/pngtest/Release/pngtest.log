@@ -1,0 +1,19 @@
+﻿Сборка начата 20.09.2016 17:53:49.
+     1>Проект "D:\Study\Image Processing\png_lib\png_lib\pngtest\pngtest.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../libpng /I../zlib /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PngProc.cpp pngtest.cpp
+         PngProc.cpp
+         pngtest.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Study\Image Processing\png_lib\png_lib\Release\pngtest.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Study\Image Processing\png_lib\png_lib\Release\pngtest.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Study\Image Processing\png_lib\png_lib\Release\pngtest.lib" /MACHINE:X86 /SAFESEH Release\PngProc.obj
+         Release\pngtest.obj
+         "D:\Study\Image Processing\png_lib\png_lib\Release\zlib.lib"
+         "D:\Study\Image Processing\png_lib\png_lib\Release\libpng.lib"
+         Создание кода
+         Создание кода завершено
+         pngtest.vcxproj -> D:\Study\Image Processing\png_lib\png_lib\Release\pngtest.exe
+     1>Сборка проекта "D:\Study\Image Processing\png_lib\png_lib\pngtest\pngtest.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.36
